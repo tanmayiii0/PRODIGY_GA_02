@@ -23,7 +23,6 @@ stable_diffusion_generator/
 │── outputs/
 How to Run
 1. Clone the Repository
-git clone https://github.com/your-username/stable_diffusion_generator.git
 cd stable_diffusion_generator
 2. Install Dependencies
 pip install -r requirements.txt
